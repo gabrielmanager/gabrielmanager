@@ -55,3 +55,9 @@ For more details, visit our official website at [Dante Labs](https://dantelabs.i
 ## Contact Us
 
 Have questions or want to work with us? Reach out at [hello@dantelabs.io](hr@dantelabs.us).
+
+![Achiever](https://img.shields.io/badge/Achiever-10_commits-yellow)
+![First Commit](https://img.shields.io/badge/First_Commit-2021-blue)
+![100 Commits](https://img.shields.io/badge/100_Commits-success)
+![Contributions](https://img.shields.io/badge/Contributions-50+-green)
+![Starred Repositories](https://img.shields.io/badge/Starred_Repos-25-orange)
