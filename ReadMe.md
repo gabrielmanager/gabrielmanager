@@ -50,9 +50,8 @@ For more details, visit our official website at [Dante Labs](https://dantelabs.i
 
 - [Website](https://dantelabs.io)
 - [LinkedIn](https://www.linkedin.com/company/dante-labs)
-- [Twitter](https://twitter.com/dantelabs)
-- [Medium](https://medium.com/dante-labs)
+- [Twitter](https://x.com/DanteLabs_io)
 
 ## Contact Us
 
-Have questions or want to work with us? Reach out at [contact@dantelabs.io](mailto:contact@dantelabs.io).
+Have questions or want to work with us? Reach out at [hello@dantelabs.io](hr@dantelabs.us).
