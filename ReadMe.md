@@ -1,6 +1,6 @@
 # Dante Labs
 <img src="./logo.jpeg" alt="Dante Labs Logo" width="100%" height="200vw"/>
-Welcome to Dante Labs' official GitHub! We're a blockchain development company focused on bringing innovative decentralized solutions to the world.
+Welcome to Dante Labs' Test GitHub! We're a blockchain development company focused on bringing innovative decentralized solutions to the world.
 
 ## About Us
 
