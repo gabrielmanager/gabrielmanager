@@ -1,61 +1,61 @@
-# Dante Labs
-<img src="./logo.jpeg" alt="Dante Labs Logo" width="100%" height="200vw"/>
-Welcome to Dante Labs' Test GitHub! We're a blockchain development company focused on bringing innovative decentralized solutions to the world.
+# 👋 Hey there, I'm Gabriel Nogueira!
 
-## About Us
+🇧🇷 Brazilian Software Developer | 💻 Passionate about building clean, efficient, and scalable software.
 
-Dante Labs specializes in creating decentralized applications (dApps), decentralized finance (DeFi) projects, and providing blockchain consulting services. We aim to reduce development costs and accelerate time to market with scalable and secure blockchain solutions.
+Welcome to my GitHub! I'm a developer who loves turning ideas into real-world solutions through code. Whether it's building back-end systems, crafting interactive web experiences, or diving into automation, I'm always up for a challenge.
 
-## Our Services
+## 🚀 About Me
 
-### Blockchain Development
-From concept to execution, we transform your ideas into impactful blockchain technology.
+- 🔭 Currently working on personal projects and contributing to open source
+- 🌱 Always learning something new – lately diving deeper into DevOps and system design
+- 💬 Let's talk about software architecture, clean code, or just tech in general!
+- 📍 Based in Brazil
+- ⚡ Fun fact: Coffee and code are my natural habitat ☕
 
-### RWA Tokenization
-Unlock liquidity and investment potential by tokenizing real-world assets (RWAs).
+## 💼 Technical Skills
 
-### Blockchain Consulting
-We provide strategic guidance and technical expertise to help you navigate blockchain complexities.
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Smart Contracts Development
-Automating transactions with secure and efficient smart contracts.
+### 🧱 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### dApp Development
-Developing user-friendly decentralized applications with robust performance.
+### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### DeFi Projects Development
-Leading the Web3 space with cutting-edge DeFi technologies that offer transparency and security.
-
-## Our Focus Areas
-- **DeFi (Decentralized Finance)**
-- **Tokenized Real-World Assets (RWA)**
-- **Blockchain Infrastructure**
-- **Payment Processing**
-- **GameFi**
-- **SocialFi**
-
-## Our Philosophy
-
-We take a **security-first** approach, understanding that security is the most important factor in building successful blockchain startups. Our goal is to help you develop, scale, and secure your blockchain projects.
-
-## Contribute
-
-Feel free to explore, contribute, and collaborate on our open-source projects. Your contributions are what help the blockchain ecosystem grow and innovate!
-
-For more details, visit our official website at [Dante Labs](https://dantelabs.io).
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### Follow Us
+## 📊 GitHub Stats
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://dantelabs.io)_[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dante-labs)_[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DanteLabs_io)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
 
-## Contact Us
+---
 
-Have questions or want to work with us? Reach out at [hello@dantelabs.io](hr@dantelabs.us).
+## 📫 Contact
 
-<!-- ![Achiever](https://img.shields.io/badge/Achiever-10_commits-yellow)
-![First Commit](https://img.shields.io/badge/First_Commit-2021-blue)
-![100 Commits](https://img.shields.io/badge/100_Commits-success)
-![Contributions](https://img.shields.io/badge/Contributions-50+-green)
-![Starred Repositories](https://img.shields.io/badge/Starred_Repos-25-orange) -->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 📁 [Portfolio](https://your-portfolio-link.com)
+- 📧 [Email](mailto:your.email@example.com)
+
+---
+
+_Always open to new opportunities and collaborations. Let's connect!_
