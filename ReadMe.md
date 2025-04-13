@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a developer who loves turning ideas into real-world so
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-nogueira-7801b1360/)
-- 📁 [Portfolio](https://your-portfolio-link.com)
+- 📁 [Portfolio]
 - 📧 [Email](bielzinpirocudo78@gmail.com)
 
 ---
